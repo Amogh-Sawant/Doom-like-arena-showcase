@@ -1,0 +1,30 @@
+﻿  sample.cpp
+C:\CS550\SampleWindows\FinalProject\sample.cpp(168,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\CS550\SampleWindows\FinalProject\sample.cpp(169,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\CS550\SampleWindows\FinalProject\sample.cpp(803,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(804,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(807,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(807,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(808,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(808,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(816,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1148,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1150,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1160,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1162,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1568,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1570,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1572,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1574,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1860,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1862,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1863,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1870,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1873,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1886,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1890,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1903,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1906,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS550\SampleWindows\FinalProject\sample.cpp(1922,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\CS550\SampleWindows\FinalProject\Debug\Sample.exe
